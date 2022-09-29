@@ -1,0 +1,2 @@
+# Automatic-Intrusion-Prevention-System
+Automatic Intrusion Prevention System is a security system that can determine the presence of intruders near the border and the location of the target (human) and trigger the firing mechanism.  The sensors will sense any living object inside the range, provide the s/g to microcontroller, in response, microcontroller generate appropriate signal to determine the location of the object corresponding to received signal, activates targeting system, buzzer system and at last firing system. 
